@@ -1,0 +1,6 @@
+dist
+script
+.dockerignore
+.gitignore
+Dockerfile
+README.md
